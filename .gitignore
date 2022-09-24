@@ -44,3 +44,5 @@ Temporary Items
 
 # Bluefish temporary files
 *.*~
+upgrade-packages/backup/
+develop/generate.json.py

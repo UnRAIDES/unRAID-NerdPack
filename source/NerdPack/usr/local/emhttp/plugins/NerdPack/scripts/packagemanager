@@ -101,7 +101,10 @@ foreach ($pkg_cfg as $pkg_name => $pkg_pref) { // get preferences for each packa
         if ($argd) {
             if (!$pkg_download_status) { //if package is not downloaded
 
-                logger('Downloading '.$pkg_gitname.' package...', $argq);
+                //logger('Downloading '.$pkg_gitname.' package...', $argq);
+                //logger('Downloading pkg_file '.$pkg_file.' package...', $argq);
+                //logger('Downloading pkg_url '.$pkg_url.' package...', $argq);
+                //logger('Downloading pkg_sha1 '.$pkg_sha1.' package...', $argq);
 
                 get_file_from_url($pkg_file, $pkg_url);
 

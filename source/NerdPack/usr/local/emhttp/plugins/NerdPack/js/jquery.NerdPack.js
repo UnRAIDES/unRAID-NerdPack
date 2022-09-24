@@ -172,8 +172,8 @@ function checkDepends() {
         $('#tcl', '.pkgvalue').val('yes');
     }
     if ($('#iotop')[0].checked) {
-        $('#python').switchButton({checked: true});
-        $('#python', '.pkgvalue').val('yes');
+        $('#python2').switchButton({checked: true});
+        $('#python2', '.pkgvalue').val('yes');
     }
     if ($('#vim')[0].checked) {
         $('#perl').switchButton({checked: true});

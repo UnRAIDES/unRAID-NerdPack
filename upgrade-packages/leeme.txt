@@ -1,0 +1,6 @@
+
+docker build -t upgrade .                                                                                          
+
+docker run --rm -it -v /mnt/user/jonathan/git/unRAID/plugins/unRAID-NerdPack/packages:/packages -v "$(pwd)":/source upgrade:latest bash
+
+python3 upgrade.packages.py 

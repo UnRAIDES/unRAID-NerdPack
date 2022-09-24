@@ -41,6 +41,8 @@ function file_check_sha1($file, $sha1) {
     $str = "blob ".$size."\0".$contents;
     $sha1_file = sha1($str);
 
+    //logger('Downloading file_check_sha1 => sha1_file ['.$sha1_file.'] ['.$sha1.'] package...');
+
     return ($sha1_file == $sha1);
 }
 ?>

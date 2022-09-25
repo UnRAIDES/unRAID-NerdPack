@@ -344,11 +344,11 @@
         "type": "file"
     },
     {
-        "name": "irssi-1.2.1-x86_64-1.txz",
-        "path": "packages/6.11/irssi-1.2.1-x86_64-1.txz",
-        "sha": "b8e6736e8ee4fe98df6a8b2bf4f361ac89f10fe2",
-        "size": 651960,
-        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/irssi-1.2.1-x86_64-1.txz",
+        "name": "irssi-1.2.3-x86_64-2.txz",
+        "path": "packages/6.11/irssi-1.2.3-x86_64-2.txz",
+        "sha": "749c8b09f9cc52f7dc52e7888e8c2d522e0668d7",
+        "size": 654900,
+        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/irssi-1.2.3-x86_64-2.txz",
         "type": "file"
     },
     {
@@ -656,22 +656,6 @@
         "type": "file"
     },
     {
-        "name": "python2-2.7.18-x86_64-4.txz",
-        "path": "packages/6.11/python2-2.7.18-x86_64-4.txz",
-        "sha": "4f1e65a1c8898aa3c59c5f960d92c7abdd51bc88",
-        "size": 13018740,
-        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/python2-2.7.18-x86_64-4.txz",
-        "type": "file"
-    },
-    {
-        "name": "python3-3.9.6-x86_64-1.txz",
-        "path": "packages/6.11/python3-3.9.6-x86_64-1.txz",
-        "sha": "bdac73b51f733aeeff021bcedbf1d566d4d4cc55",
-        "size": 18419532,
-        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/python3-3.9.6-x86_64-1.txz",
-        "type": "file"
-    },
-    {
         "name": "python-pip-21.2.3-x86_64-1.txz",
         "path": "packages/6.11/python-pip-21.2.3-x86_64-1.txz",
         "sha": "84edb72ccd929d966b54f0e7c98139020e657f9d",
@@ -688,6 +672,22 @@
         "type": "file"
     },
     {
+        "name": "python2-2.7.18-x86_64-4.txz",
+        "path": "packages/6.11/python2-2.7.18-x86_64-4.txz",
+        "sha": "4f1e65a1c8898aa3c59c5f960d92c7abdd51bc88",
+        "size": 13018740,
+        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/python2-2.7.18-x86_64-4.txz",
+        "type": "file"
+    },
+    {
+        "name": "python3-3.9.6-x86_64-1.txz",
+        "path": "packages/6.11/python3-3.9.6-x86_64-1.txz",
+        "sha": "bdac73b51f733aeeff021bcedbf1d566d4d4cc55",
+        "size": 18419532,
+        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/python3-3.9.6-x86_64-1.txz",
+        "type": "file"
+    },
+    {
         "name": "ranger-1.9.2-x86_64-1cf.txz",
         "path": "packages/6.11/ranger-1.9.2-x86_64-1cf.txz",
         "sha": "a722696ae391805ee7c70c8c3abc6806e01e66f3",
@@ -696,19 +696,19 @@
         "type": "file"
     },
     {
-        "name": "rar2fs-1.29.0-x86_64-1_SBo.txz",
-        "path": "packages/6.11/rar2fs-1.29.0-x86_64-1_SBo.txz",
-        "sha": "00ca719c55cb0303e6e0a35161313b501a1ceec7",
-        "size": 168232,
-        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/rar2fs-1.29.0-x86_64-1_SBo.txz",
-        "type": "file"
-    },
-    {
         "name": "rar-5.8.1-x86_64-1_SBo.txz",
         "path": "packages/6.11/rar-5.8.1-x86_64-1_SBo.txz",
         "sha": "be3b78ce6cb78a16dadad71b665e760b273fde17",
         "size": 290256,
         "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/rar-5.8.1-x86_64-1_SBo.txz",
+        "type": "file"
+    },
+    {
+        "name": "rar2fs-1.29.0-x86_64-1_SBo.txz",
+        "path": "packages/6.11/rar2fs-1.29.0-x86_64-1_SBo.txz",
+        "sha": "00ca719c55cb0303e6e0a35161313b501a1ceec7",
+        "size": 168232,
+        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/rar2fs-1.29.0-x86_64-1_SBo.txz",
         "type": "file"
     },
     {
@@ -917,6 +917,14 @@
         "sha": "fbb80f286f5f788dc7749a381458628e5b3eadb6",
         "size": 57944,
         "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/utf8proc-2.4.0-x86_64-1.txz",
+        "type": "file"
+    },
+    {
+        "name": "utf8proc-2.7.0-i586-1.txz",
+        "path": "packages/6.11/utf8proc-2.7.0-i586-1.txz",
+        "sha": "ad30ee55c4055d35f0691e993b4d25c755b906ae",
+        "size": 62816,
+        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/utf8proc-2.7.0-i586-1.txz",
         "type": "file"
     },
     {

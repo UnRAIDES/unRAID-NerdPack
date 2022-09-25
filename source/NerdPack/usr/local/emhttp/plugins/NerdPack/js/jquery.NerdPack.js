@@ -176,8 +176,8 @@ function checkDepends() {
         $('#python2', '.pkgvalue').val('yes');
     }
     if ($('#vim')[0].checked) {
-        $('#perl').switchButton({checked: true});
-        $('#perl', '.pkgvalue').val('yes');
+        $('#libsodium').switchButton({checked: true});
+        $('#libsodium', '.pkgvalue').val('yes');
     }
     if ($('#borgbackup')[0].checked) {
         $('#python3').switchButton({checked: true});

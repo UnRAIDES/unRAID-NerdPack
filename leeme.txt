@@ -12,3 +12,9 @@ php develop/get_sha1.php 6.11 > contents/packages.6.11.json
             ./pkg_build.sh b
 
 # Agregar la version al archivo "plugin/NerdPack.plg" en el campo <!ENTITY version   "2022.09.13">
+
+
+ejemplos:
+    ./create.new.version.sh
+    ./create.new.version.sh a
+    ./create.new.version.sh b

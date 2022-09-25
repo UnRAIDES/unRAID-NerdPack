@@ -187,4 +187,8 @@ function checkDepends() {
         $('#llfuse').switchButton({checked: true});
         $('#llfuse', '.pkgvalue').val('yes');
     }
+    if ($('#irssi')[0].checked) {
+        $('#utf8proc').switchButton({checked: true});
+        $('#utf8proc', '.pkgvalue').val('yes');
+    }
 }

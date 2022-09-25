@@ -416,6 +416,14 @@
         "type": "file"
     },
     {
+        "name": "libsodium-1.0.18-x86_64-3.txz",
+        "path": "packages/6.11/libsodium-1.0.18-x86_64-3.txz",
+        "sha": "1fdcda9ad536492ae78d1e6013f6d9639f9f3605",
+        "size": 169616,
+        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/libsodium-1.0.18-x86_64-3.txz",
+        "type": "file"
+    },
+    {
         "name": "libzen-0.4.37-x86_64-1_SBo.txz",
         "path": "packages/6.11/libzen-0.4.37-x86_64-1_SBo.txz",
         "sha": "fe1b1a207f3dd30710f7e2e6b3838388d0a229bb",

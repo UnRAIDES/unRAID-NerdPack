@@ -3,7 +3,7 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "NerdPack">
 <!ENTITY author    "UnRAIDES">
-<!ENTITY version   "2022.09.25a">
+<!ENTITY version   "2022.09.27">
 <!ENTITY launch    "Settings/&name;">
 <!ENTITY gitURL    "https://raw.githubusercontent.com/&author;/unRAID-&name;/master">
 <!ENTITY pluginURL "&gitURL;/plugin/&name;.plg">
@@ -17,6 +17,13 @@
 
 <CHANGES>
 ##&name;
+###2022.09.27
+- New maintainer UnRAIDES team
+- Fix various problem with UnRAID 6.11 - WIP 
+- Update vim to the version 9.0.0417
+- Add dependency libsodium for new version of vim package
+- Update irssi to the version 1.2.3
+- Add dependency utf8proc for new version of irssi package
 ###2021.08.11
 - Allow Multiple Digit Version Revisions thanks to Keith Lamprecht
 ###2021.01.08

@@ -912,22 +912,6 @@
         "type": "file"
     },
     {
-        "name": "utf8proc-2.4.0-x86_64-1.txz",
-        "path": "packages/6.11/utf8proc-2.4.0-x86_64-1.txz",
-        "sha": "fbb80f286f5f788dc7749a381458628e5b3eadb6",
-        "size": 57944,
-        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/utf8proc-2.4.0-x86_64-1.txz",
-        "type": "file"
-    },
-    {
-        "name": "utf8proc-2.7.0-i586-1.txz",
-        "path": "packages/6.11/utf8proc-2.7.0-i586-1.txz",
-        "sha": "ad30ee55c4055d35f0691e993b4d25c755b906ae",
-        "size": 62816,
-        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/utf8proc-2.7.0-i586-1.txz",
-        "type": "file"
-    },
-    {
         "name": "utf8proc-2.7.0-x86_64-1.txz",
         "path": "packages/6.11/utf8proc-2.7.0-x86_64-1.txz",
         "sha": "a4f8d1725afd0feb4ccf65c528eebbd040d0faeb",

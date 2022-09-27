@@ -3,7 +3,7 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "NerdPack">
 <!ENTITY author    "UnRAIDES">
-<!ENTITY version   "2022.09.27">
+<!ENTITY version   "2022.09.27a">
 <!ENTITY launch    "Settings/&name;">
 <!ENTITY gitURL    "https://raw.githubusercontent.com/&author;/unRAID-&name;/master">
 <!ENTITY pluginURL "&gitURL;/plugin/&name;.plg">
@@ -17,6 +17,10 @@
 
 <CHANGES>
 ##&name;
+###2022.09.27a
+- Fix tip on packages-desc
+- Update zsh to the version 5.8-3
+- Update python3 to the version 3.9.10
 ###2022.09.27
 - New maintainer UnRAIDES team
 - Fix various problem with UnRAID 6.11 - WIP 

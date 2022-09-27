@@ -58,6 +58,7 @@
  "lbzip2":"pthreads-based parallel bzip2\/bunzip2",
  "lftp":"A program that allows sophisticated ftp and http connections to other hosts. lftp can handle many file access methods including ftp, ftps, http, https, hftp, fish and file. Every operation in lftp is reliable, that is any non-fatal error is ignored and the operation is retried. lftp has shell-like command syntax. Has a built in mirror feature which can download or upload a whole directory tree. To learn about many more features of lftp, see  man lftp.",
  "libmediainfo":"A library for mediainfo.",
+ "libsodium":"Sodium is a library for encryption, decryption, signatures, password hashing and more. It is a portable, cross-compilable, installable, packageable fork of NaCl, with a compatible API, and an extended API to improve usability even further. Its goal is to provide all of the core operations needed to build higher-level cryptographic tools"
  "libzen":"A mandatory library for libmediainfo.",
  "llfuse":"A set of Python bindings for the low level FUSE API.",
  "lrzip":"A file compression program designed to do particularly well on very large files containing long distance redundancy.  The larger the file and the more memory you have, the better the compression advantage this will provide.  A variety of compression options allow optimizing for size or speed.",
@@ -84,7 +85,6 @@
  "p7zip":"7-Zip is a well-known file compression utility for windows. p7zip is a ported version for linux with nearly the same capabilities.",
  "par2cmdline":"A tool for creating and using PAR2 parity sets to detect damage in files.",
  "parallel":"A shell tool for executing jobs in parallel using one or more computers. A job can be a single command or a small script that has to be run for each of the lines in the input. The typical input is a list of files, a list of hosts, a list of users, a list of URLs, or a list of tables. A job can also be a command that reads from a pipe. GNU parallel can then split the input and pipe it into commands in parallel.",
- "perl":"Larry Walls Practical Extraction and Report Language . It is a language optimized for scanning arbitrary text files, extracting information from those text files, and printing reports based on that information. It s also a good language for many system management tasks. The language is intended to be practical (easy to use, efficient, complete) rather than beautiful (tiny, elegant, minimal).",
  "pigz":"parallel implementation of gzip, is a fully functional replacement for gzip that exploits multiple processors and multiple cores to the hilt when compressing data.",
  "pip":"a replacement for easy_install from python-setuptools.",
  "powertop":"PowerTOP is a utility that collects data from your system and presents an overview to help optimize power savings. PowerTOP will identify which tunables and software components are the biggest offenders in slurping up your battery time.",

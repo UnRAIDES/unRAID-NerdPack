@@ -680,11 +680,11 @@
         "type": "file"
     },
     {
-        "name": "python3-3.9.6-x86_64-1.txz",
-        "path": "packages/6.11/python3-3.9.6-x86_64-1.txz",
-        "sha": "bdac73b51f733aeeff021bcedbf1d566d4d4cc55",
-        "size": 18419532,
-        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/python3-3.9.6-x86_64-1.txz",
+        "name": "python3-3.9.10-x86_64-1.txz",
+        "path": "packages/6.11/python3-3.9.10-x86_64-1.txz",
+        "sha": "77658849776e0220efa46a63a3f1f0d23c7294ca",
+        "size": 18538524,
+        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/python3-3.9.10-x86_64-1.txz",
         "type": "file"
     },
     {
@@ -976,11 +976,11 @@
         "type": "file"
     },
     {
-        "name": "zsh-5.8-x86_64-1.txz",
-        "path": "packages/6.11/zsh-5.8-x86_64-1.txz",
-        "sha": "a1300bf8edc64973304ad6c7ee401de8de887bbc",
-        "size": 3053312,
-        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/zsh-5.8-x86_64-1.txz",
+        "name": "zsh-5.8-x86_64-3.txz",
+        "path": "packages/6.11/zsh-5.8-x86_64-3.txz",
+        "sha": "63ab9b0d4888db77f54fcf6f6c84e6e04aea5fd8",
+        "size": 3056824,
+        "download_url": "https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdPack/master/packages/6.11/zsh-5.8-x86_64-3.txz",
         "type": "file"
     },
     {
